@@ -1,0 +1,10 @@
+# setup of problem and solver
+model fire_police.mod;
+data fire_police.dat;
+option solver cplex;
+
+# solve it
+solve;
+
+# display matched pairs
+display {i in POLICE, j in FIRE: match[i,j] = 1};

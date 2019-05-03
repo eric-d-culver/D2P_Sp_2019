@@ -7,6 +7,7 @@ on the [UCDenver Optimization Wiki](http://math.ucdenver.edu/~sborgwardt/wiki/in
 # Files Included
 * fire_police.mod - AMPL model file for fire-police matching problem
 * fire_police.dat - AMPL data file for fire-police matching problem
+* fire_police.run - AMPL script which sets up and solves the problem, then displays result (type "commands fire_police.run;" in AMPL to run)
 * test_fire_police.dat - test (made-up) data for testing validity of fire-police model
 * convert.py - Python script to convert CSV data files to a form AMPL accepts
 * Accidents_fatal.csv - raw data, fatal accidents in Denver during Jan 2018 - Mar 2019

@@ -3,6 +3,7 @@ the Data to Policy project for Integer Programming done by
 Christina Ebben and Eric Culver. 
 For more information visit the project's [page](http://math.ucdenver.edu/~sborgwardt/wiki/index.php/Coordinating_Response_to_Fatal_Accidents) 
 on the [UCDenver Optimization Wiki](http://math.ucdenver.edu/~sborgwardt/wiki/index.php/Main_Page).
+Also, check out the interactive map of our results at [ArcGIS Online](www.arcgis.com/home/item.html?id=acb6d4d47b53473bb2cfc158061364db)
 
 # Files Included
 * fire_police.mod - AMPL model file for fire-police matching problem
